@@ -1,0 +1,70 @@
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.deps.json
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\refint\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ref\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.deps.json
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\refint\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ref\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.deps.json
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\refint\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ref\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.sourcelink.json
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.sourcelink.json
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\refint\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.deps.json
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.runtimeconfig.json
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.dll
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Infra.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\bin\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ETreeks.Infra.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Infra\obj\Debug\net6.0\ref\ETreeks.Infra.dll

@@ -1,0 +1,50 @@
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.deps.json
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\refint\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ref\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.deps.json
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\refint\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ref\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.deps.json
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\refint\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ref\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.API\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.sourcelink.json
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.deps.json
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\bin\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.sourcelink.json
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\obj\Debug\net6.0\refint\ETreeks.Core.dll
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\obj\Debug\net6.0\ETreeks.Core.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\API-New\ETreeks.Core\obj\Debug\net6.0\ref\ETreeks.Core.dll
