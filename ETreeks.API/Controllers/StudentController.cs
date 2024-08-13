@@ -90,9 +90,31 @@ namespace ETreeks.API.Controllers
 			var result = await _studentService.UpdateProfile(profileStudentDto);
 			if (result)
 			{
-				return NoContent();
-			}
+                return Ok(result);
+            }
 			return BadRequest();
 		}
-	}
+
+        [HttpPost]
+        [Route("UploadImage")]
+        public ProfileStudentDTO UploadImage()
+        {
+            var file = Request.Form.Files[0];
+            var fileName = Guid.NewGuid().ToString() + "_" + file.FileName;
+
+            var fullPath = Path.Combine("C:\\Users\\Acer\\Desktop\\New folder\\ETreeks_Angular10\\ETreeks\\src\\assets\\Images", fileName);
+            using (var stream = new FileStream(fullPath, FileMode.Create))
+            {
+                file.CopyTo(stream);
+            }
+
+            // Create and return a GuserDto object
+            ProfileStudentDTO item = new ProfileStudentDTO
+            {
+                Imagename = fileName
+            };
+
+            return item;
+        }
+    }
 }

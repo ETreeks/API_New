@@ -231,6 +231,30 @@ namespace ETreeks.API.Controllers
             return Ok();
         }
 
+
+
+        [HttpPost]
+        [Route("UploadImageAdmin")]
+        public GuserDto UploadImage()
+        {
+            var file = Request.Form.Files[0];
+            var fileName = Guid.NewGuid().ToString() + "_" + file.FileName;
+
+            var fullPath = Path.Combine("C:\\Users\\Acer\\Desktop\\New folder\\ETreeks_Angular10\\ETreeks\\src\\assets\\Images", fileName);
+            using (var stream = new FileStream(fullPath, FileMode.Create))
+            {
+                file.CopyTo(stream);
+            }
+
+            // Create and return a GuserDto object
+            GuserDto item = new GuserDto
+            {
+                ImageName = fileName
+            };
+
+            return item;
+        }
+
         [HttpGet("SearchTrainerByName")]
         public IActionResult SearchTrainerByName(string trainerName)
         {
